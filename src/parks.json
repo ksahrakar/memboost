@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "image": "acadia.jpg",
+        "name": "Acadia"
+    },
+    {
+        "id":2,
+        "image": "arcticgates.jpg",
+        "name": "Gates of the Arctic"
+    },
+    {
+        "id":3,
+        "image": "biscayne.jpg",
+        "name": "Biscayne"
+    },
+    {
+        "id":4,
+        "image": "canyonlands.jpg",
+        "name": "Canyonlands"
+    },
+    {
+        "id":5,
+        "image": "carlsbad.jpg",
+        "name": "Carlsbad Caverns"
+    },
+    {
+        "id":6,
+        "image": "channelisles.jpg",
+        "name": "Channel Islands"
+    },
+    {
+        "id":7,
+        "image": "craterlake.jpg",
+        "name": "Crater Lake"
+    },
+    {
+        "id":8,
+        "image": "cuyahoga.jpg",
+        "name": "Cuyahoga"
+    },
+    {
+        "id":9,
+        "image": "deathvalley.jpg",
+        "name": "Death Valley"
+    },
+    {
+        "id":10,
+        "image": "denali.jpg",
+        "name": "Denali"
+    },
+    {
+        "id":11,
+        "image": "glacier.jpg",
+        "name": "Glacier"
+    },
+    {
+        "id":12,
+        "image": "grandcanyon.jpg",
+        "name": "Grand Canyon"
+    },
+    {
+        "id":13,
+        "image": "haleakala.jpg",
+        "name": "Haleakala"
+    },
+    {
+        "id":14,
+        "image": "saguaro.jpg",
+        "name": "Saguaro"
+    },
+    {
+        "id":15,
+        "image": "sanddunes.jpg",
+        "name": "Sand Dunes"
+    },
+    {
+        "id":16,
+        "image": "yosemite.jpg",
+        "name": "Yosemite"
+    }
+]
