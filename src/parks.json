@@ -1,82 +1,92 @@
 [
     {
         "id":1,
-        "image": "acadia.jpg",
-        "name": "Acadia"
+        "image": "./images/acadia.jpg",
+        "name": "Acadia",
+        "clicked":false
     },
     {
         "id":2,
-        "image": "arcticgates.jpg",
-        "name": "Gates of the Arctic"
+        "image": "./images/arcticgates.jpg",
+        "name": "Gates of the Arctic",
+        "clicked":false
     },
     {
         "id":3,
-        "image": "biscayne.jpg",
-        "name": "Biscayne"
+        "image": "./images/biscayne.jpg",
+        "name": "Biscayne",
+        "clicked":false
     },
     {
         "id":4,
-        "image": "canyonlands.jpg",
-        "name": "Canyonlands"
+        "image": "./images/canyonlands.jpg",
+        "name": "Canyonlands",
+        "clicked":false
     },
     {
         "id":5,
-        "image": "carlsbad.jpg",
-        "name": "Carlsbad Caverns"
+        "image": "./images/carlsbad.jpg",
+        "name": "Carlsbad Caverns",
+        "clicked":false
     },
     {
         "id":6,
-        "image": "channelisles.jpg",
-        "name": "Channel Islands"
+        "image": "./images/craterlake.jpg",
+        "name": "Crater Lake",
+        "clicked":false
     },
     {
         "id":7,
-        "image": "craterlake.jpg",
-        "name": "Crater Lake"
+        "image": "./images/cuyahoga.jpg",
+        "name": "Cuyahoga",
+        "clicked":false
     },
     {
         "id":8,
-        "image": "cuyahoga.jpg",
-        "name": "Cuyahoga"
+        "image": "./images/deathvalley.jpg",
+        "name": "Death Valley",
+        "clicked":false
     },
     {
         "id":9,
-        "image": "deathvalley.jpg",
-        "name": "Death Valley"
+        "image": "./images/denali.jpg",
+        "name": "Denali",
+        "clicked":false
     },
     {
         "id":10,
-        "image": "denali.jpg",
-        "name": "Denali"
+        "image": "./images/glacier.jpg",
+        "name": "Glacier",
+        "clicked":false
     },
     {
         "id":11,
-        "image": "glacier.jpg",
-        "name": "Glacier"
+        "image": "./images/grandcanyon.jpg",
+        "name": "Grand Canyon",
+        "clicked":false
     },
     {
         "id":12,
-        "image": "grandcanyon.jpg",
-        "name": "Grand Canyon"
+        "image": "./images/haleakala.jpg",
+        "name": "Haleakala",
+        "clicked":false
     },
     {
         "id":13,
-        "image": "haleakala.jpg",
-        "name": "Haleakala"
+        "image": "./images/saguaro.jpg",
+        "name": "Saguaro",
+        "clicked":false
     },
     {
         "id":14,
-        "image": "saguaro.jpg",
-        "name": "Saguaro"
+        "image": "./images/sanddunes.jpg",
+        "name": "Great Sand Dunes",
+        "clicked":false
     },
     {
         "id":15,
-        "image": "sanddunes.jpg",
-        "name": "Sand Dunes"
-    },
-    {
-        "id":16,
-        "image": "yosemite.jpg",
-        "name": "Yosemite"
+        "image": "./images/yosemite.jpg",
+        "name": "Yosemite",
+        "clicked":false
     }
 ]

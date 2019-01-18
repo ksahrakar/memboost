@@ -1,13 +1,18 @@
 import React from "react";
-//import "./ScoreCard.css";
+import "./ScoreCard.css";
 
-//pass the image into each card so all 12 are rendered
-const ScoreCard = props => (
-  <div className="card" onClick={props.imageClick}>
-    <div className="img-container">
-      <img alt={props.image.replace(".jpg", "")} src={require("../../images/" + props.image)} />
+
+const ScoreCard = props => {
+  return(
+    <div className="card SCbody">
+      <div>
+        <h3>Current Score: {props.score}</h3>
+        <h5 className="msg">{props.message}</h5>
+        <h5>Top Score: {props.topScore}</h5>
+        <h5>Games Played: {props.gamesPlayed}</h5>
+      </div>
     </div>
-  </div>
-);
+  )
+};
 
 export default ScoreCard;

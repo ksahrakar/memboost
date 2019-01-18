@@ -1,12 +1,15 @@
 import React from "react";
 import "./ParkCard.css";
 
-
-//pass the image into each card so all 12 are rendered
 const ParkCard = props => (
-  <div className="card" onClick={props.imageClick}>
-    <div className="img-container">
-      <img alt={props.name} src={require("./images/" + props.image)} />
+  <div 
+    id={props.id}
+    value={props.id}
+    className="card"
+    onClick={()=> props.handleClick(props.id)}>
+    <div className="imgContainer">
+      <h5>{props.name}</h5>
+      <img className="imag" alt={props.name} src={props.image}/>
     </div>
   </div>
 );

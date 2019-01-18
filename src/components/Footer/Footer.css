@@ -1,0 +1,15 @@
+.footer {
+    width:100%;
+    padding:8px;
+    margin-bottom: 0;
+    background: slategrey;
+    float:right;
+}
+
+.sig{
+    /* font-family: 'Nova Mono', monospace; */
+    max-width:200px;
+    font-family: "Arial-Narrow";
+    float:right;
+    margin-right: 40px;
+}
